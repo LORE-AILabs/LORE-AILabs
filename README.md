@@ -30,6 +30,10 @@
 - [【T3 Code】今話題のT3 Code徹底解説](https://x.com/LOREbeginning/status/2123742828195193238)
 - [【Qwen3.8 FN】59通りの試行から爆誕（rS氏の無検閲モデル作り直し版）](https://x.com/LOREbeginning/status/2124371188466295093)
 
+## これから
+
+実測シリーズも公開プロジェクトも、まだ始めたばかりです。これからどんどん増やしていきます。
+
 ## 公開プロジェクト
 
 - [GProTray](https://github.com/LORE-AILabs/GProTray) — Windows 11向けの超軽量・Rust製タスクトレイ設定ツール。Logicool G HUB を常駐させずに、G PRO Wireless の DPI やポーリングレートをタスクトレイから管理できます（アイドル時 Working Set 約 9 MB）。
